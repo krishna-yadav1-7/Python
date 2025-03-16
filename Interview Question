@@ -1,0 +1,53 @@
+What are Python's key features?
+
+What is the difference between list, tuple, and set in Python?
+
+What is a dictionary in Python? How is it different from a list?
+
+What are mutable and immutable types in Python?
+
+Give examples.
+
+What are Python's data types?
+
+What are *args and **kwargs in Python functions?
+
+What is the difference between is and == operators?
+
+What are Python's namespaces?
+
+What is PEP 8 and why is it important?
+
+Explain Python's memory management.
+
+What are Python decorators? How do you use them?
+
+What is a lambda function? How is it different from a normal function?
+
+What is the difference between shallow copy and deep copy?
+
+What is a generator in Python? How is it different from an iterator?
+
+Explain list comprehension with an example.
+
+What is the difference between @staticmethod and @classmethod?
+
+How is exception handling done in Python?
+
+What are Python modules and packages? How do you create them?
+
+What is the difference between Python 2 and Python 3?
+
+What is a virtual environment and why do we use it?
+
+What are metaclasses in Python?
+
+Explain the Global Interpreter Lock (GIL).
+
+What are Python's data structures and how are they implemented?
+
+How does Python manage memory (reference counting, garbage collection)?
+
+Explain multithreading vs multiprocessing in Python.
+
+How do they work?
